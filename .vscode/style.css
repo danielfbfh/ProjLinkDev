@@ -13,7 +13,8 @@ body * {
   color: #ffff;
 }
 #container {
-  width: 360px;
+  width: 100px;
+  max-width: 588px;
   height: 712px;
   margin: 56px auto 0px;
 
